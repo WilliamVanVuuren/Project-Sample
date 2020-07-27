@@ -39,7 +39,7 @@ so that you can make the actual changes. This is where we will start.
 ## Dependencies
 
 More details to come on Project Sample dependencies. In case of doubt, open an issue in the
-[issue tracker](https://github.com/Code-and-Response/Project-Sample/issues/) or engage on the 
+[issue tracker](https://github.com/svvsdIC/svvsdcallforcode/issues/) or engage on the 
 [Project Sample Slack workspace][].
 
 ## Setting up your local environment
@@ -52,7 +52,7 @@ it's time to create a fork.
 
 ### Step 1: Fork
 
-Fork the project [on GitHub](https://github.com/Code-and-Response/Project-Sample) and clone your fork
+Fork the project [on GitHub](https://github.com/svvsdIC/svvsdcallforcode) and clone your fork
 locally.
 
 ```text
@@ -488,4 +488,4 @@ If you want to know more about the code review and the landing process, see the
 
 [Code of Conduct]: https://github.com/Code-and-Response/Project-Sample/doc/guides/coc.md
 [Collaborator Guide]: ../../../CONTRIBUTING.md
-[Project Sample Slack workspace]: https://code-and-response.slack.com/join/shared_invite/enQtNzUzOTAzNDE3MTM4LWM4M2VlOTA3OWNjMjY0ZTI4MjQ2OTBjYjYwNmQ1NTdhYjZhODE5NjFkN2QyNmRkNDI5OTFlZmVjYTFhMmMwYmU
+[Project Sample Slack workspace]: https://join.slack.com/t/icwatsondevelopment/shared_invite/zt-g89fpug4-dzjGqZAvDGRRnZXDgg9_wA
